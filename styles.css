@@ -1,0 +1,66 @@
+/* Custom styles for Admin Login page */
+
+body {
+  font-family: sans-serif;
+  background-size: cover;
+  background-position: center;
+  background-size: 1500px 780px;
+  height: 100vh;
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+  
+  .ftco-section {
+    padding: 50px 0;
+  }
+  
+  .container-fluid {
+    background-image: url('file:///C:/Users/ASUS/Final Project/Image.png');
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+  }
+  
+  .searchform {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: 700;
+    color: #495057;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color:#ffc107;;
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add more styles as needed */
+  
